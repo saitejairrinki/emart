@@ -10,7 +10,7 @@ theme:
   name: 'material'
   language: 'es'
   palette:
-    primary: 'Teal'
+    primary: 'Red'
     accent: 'Indigo'
 
 extra_css:
