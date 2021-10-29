@@ -11,7 +11,7 @@ theme:
   language: 'es'
   palette:
     primary: 'Red'
-    accent: 'Indigo'
+    accent: 'Red'
 
 extra_css:
   - 'css/prism.css'
